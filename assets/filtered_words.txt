@@ -1,0 +1,10 @@
+pode: 84
+código: 75
+trabalho: 51
+fazer: 51
+sobre: 47
+casa: 45
+pessoas: 40
+empresa: 37
+algo: 37
+tempo: 36

@@ -1,0 +1,1230 @@
+Capítulo 1
+Liderar ou sangrar?
+Se você vai investir seu dinheiro, muitas opções estão disponíveis. Você pode investilo em uma poupança, apesar de que o rendimento possivelmente não seja tão vantajoso se comparado com a inflação. Ou você pode investi-lo em títulos do governo.
+Novamente, você pode não ganhar tanto dinheiro, mas são apostas seguras.
+Ou ainda, você pode investir em uma pequena startup. Você pode, por exemplo,
+investir algum dinheiro em troca de uma pequena parte na sociedade da empresa. Se
+a ideia da empresa for boa e ela puder executá-la, você pode potencialmente ganhar
+bastante dinheiro. Por outro lado, não é nem garantido que você vá recuperar seu
+investimento.
+Esse conceito não é novo. Você começa a aprendê-lo como uma criança brincando. Se eu correr por aqui, eu vou surpreender todo mundo e não vou ser pego.
+Você é lembrado disso com bastante frequência no seu cotidiano. Você passa pelo
+trade-off risco-recompensa quando está atrasado para uma reunião e precisa escolher o melhor caminho para o trabalho. Se o trânsito não estiver ruim, eu posso
+chegar lá 15 minutos mais rápido se eu for por esse caminho. Mas se tiver trânsito,
+Casa do Código
+estou ferrado.
+O trade-off risco-recompensa é uma parte importante do processo de fazer escolhas intencionais sobre em quais tecnologias e domínios investir. Quinze anos atrás,
+uma escolha de baixo risco seria aprender a programar em COBOL. Claro, também
+havia tantos programadores COBOL com quem concorrer, que o salário médio nessa
+época já não era fenomenal. Você podia facilmente encontrar trabalho, mas não seria
+algo tão lucrativo. Baixo risco. Baixa recompensa.
+Por outro lado, se àquela época você tivesse decidido investigar a nova linguagem
+de programação da Sun Microsystems, o Java, durante um tempo talvez fosse difícil
+encontrar emprego em algum lugar que estivesse usando essa linguagem. Quem iria
+saber se alguém realmente faria algo em Java?
+Mas se você estivesse de olho em como estava a indústria naquela época, da
+forma como a Sun estava, você poderia ter visto algo especial no Java. Poderia ter
+sentido que aquilo se tornaria grande. Investir naquela tecnologia logo no início faria
+de você um líder em uma grande e influente tecnologia.
+É claro, nesse caso você teria se dado bem. E se tivesse jogado suas cartas corretamente, seu investimento em Java teria sido muito lucrativo. Alto risco. Alta recompensa.
+Agora, imagine que também há 15 anos você tenha visto uma demonstração do
+novo BeOS, da Be. Na época ele era incrível. Ele foi construído para tirar vantagem
+de múltiplos processadores. Suas capacidades de multimídia eram impressionantes.
+A plataforma fez bastante barulho na época e os especialistas sentiam que estava ali
+um novo concorrente fortíssimo no mercado de sistemas operacionais.
+Com a nova plataforma, claro, viriam novas maneiras de programar, novas APIs,
+novos conceitos de interfaces com o usuário. Era muita coisa para se aprender, mas
+parecia valer bastante a pena. Você poderia ter criado o primeiro cliente de FTP ou o
+primeiro gerenciador de informações para o BeOS. Quando a Be lançou uma versão
+compatível com processadores Intel, rumores indicavam que a Apple a compraria a
+empresa para usar sua tecnologia na próxima geração do sistema operacional Macintosh.
+A Apple não comprou a Be. E após algum tempo, ficou claro que a Be não iria
+conseguir nem sequer um mercado de nicho. O produto simplesmente não pegou.
+Muitos desenvolvedores que dominaram programação para o BeOS começaram a
+perceber que aquele investimento não se pagaria no longo prazo. Após algum tempo,
+a Be foi comprada pela Palm e o sistema operacional foi descontinuado. BeOS era
+um investimento arriscado, porém atrativo, que não deu retorno a longo prazo. Alto
+2
+Casa do Código Capítulo 1. Liderar ou sangrar?
+risco. Nenhuma recompensa.
+Até aqui, eu falei sobre a diferença entre escolher tecnologias que ainda são recentes e as que já estão estabelecidas. Escolher uma tecnologia estável e que já está
+em produção em diversos sistemas é uma escolha mais segura, no entanto, com recompensa potencialmente menor do que uma tecnologia que poucos conhecem e
+que ninguém sabe como colocar em produção. Mas e as tecnologias que já estão
+saindo de cena? Aquelas que já estão apenas esperando para serem enterradas?
+Quem dará fim nessas tecnologias? Você pode pensar nos últimos poucos programadores que desenvolvem em RPG como sendo aqueles caras de cabelos grisalhos e contando as horas até a aposentadoria, enquanto os jovens desenvolvedores
+nunca ouviram falar de RPG. Eles estão todos aprendendo Java e .NET. É fácil pensar
+que a carreira dos últimos sobreviventes de uma velha e decadente tecnologia estão
+na mesma espiral da morte que a própria tecnologia.
+Mas sistemas antigos não morrem simplesmente. Eles são substituídos. Além
+disso, na maioria dos casos, sistemas caseiros são substituídos em estágios. Nesses
+estágios, o sistema antigo precisa conversar com o novo. Alguém precisa fazer o novo
+falar com o antigo e vice-versa. Usualmente, as crianças rebeldes não sabem (ou
+não querem saber) como fazer o sistema antigo escutar. E nem os mais velhos préaposentadoria sabem como fazer as novidades conversarem com sua amada criatura.
+As duas pontas da curva de adoção devem provar serem lucrativas.
+–
+Então, há um papel a ser preenchido pelos desenvolvedores: o asilo da tecnologia. Ajudar antigos sistemas a morrer confortavelmente e com dignidade é algo
+que não deve ser subestimado. E lógico, a maioria das pessoas irá pular do barco
+antes que ele afunde, seja via aposentadoria ou indo para outra tecnologia. Sendo
+o último que sobrou para manter os sistemas que ainda são críticos, você é o cara.
+É arriscado, já que, uma vez que a tecnologia já era, você será especialista em algo
+que não existe. No entanto, se você puder se mover rápido o suficiente, você pode
+procurar a próxima geração de sistemas que estão morrendo e começar novamente.
+A curva de adoção tem altas nas duas pontas. Onde nessas curvas você quer
+estar?
+Faça algo
+3
+Casa do Código
+1) Faça uma lista de tecnologias recentes, médias e antigas baseada no mercado
+atual. Mapeie-as em uma folha da esquerda para a direita. Na esquerda, coloque as tecnologias recentes, e na direita, as que estão próximas do fim. Force a si
+mesmo para encontrar a maior quantidade possível de tecnologias. Seja o mais
+granular possível sobre onde as tecnologias estão quando comparadas umas com
+as outras.
+Quando você tiver mapeado o máximo de tecnologias que conseguiu se lembrar,
+marque as tecnologias nas quais você se considera forte. Então, talvez em uma
+cor diferente, marque aquelas sobre as quais você possui algum conhecimento,
+mas não domina. Onde está a maioria das tecnologias que você marcou? Elas
+estão aglomeradas em alguma ponta? Estão espalhadas? Elas estão próximas às
+pontas em que você se interessa?
+4
+Capítulo 2
+Oferta e demanda
+Quando a Web realmente começou a decolar, era possível ganhar bastante dinheiro
+simplesmente criando páginas HTML para empresas. Toda empresa queria uma página web e relativamente poucas pessoas sabiam como fazê-las. Empresas estavam
+dispostas a pagar bem para web designers “experientes”, o que naquela época significava dizer que conheciam o básico de HTML, criação de links e estrutura de sites.
+Fazer HTMLs é muito simples. Difícil é fazer páginas que sejam visualmente
+bonitas, mas o básico é fácil de atingir. Conforme as pessoas perceberam os valores
+cobrados por esses web designers, mais e mais pessoas começaram a pegar livros
+de HTML e aprender a tecnologia por conta própria. O mercado estava quente, os
+salários ou valores por hora eram atraentes, e como resposta, a oferta de especialistas
+em HTML começou a aumentar.
+Conforme o mercado foi inundado de web designers, o pessoal de web começou
+a ser classificado entre reais artistas, que dominavam a tecnologia e possuíam grande
+habilidade, e os práticos, que não tinham a mesma qualidade e competência dos
+reais artistas. Além disso, a concorrência acabou levando à queda dos preços. Como
+Casa do Código
+um resultado dos preços mais baixos, mais empresas estavam dispostas a dar seu
+primeiro passo em direção à presença na internet. Eles não pagariam $5.000 por seu
+primeiro site, mas sim $500.
+Claro, algumas empresas ainda estavam dispostas a pagar bastante dinheiro por
+um site “fantástico”. E certamente os web designers ainda conseguiam cobrar valores
+“fantásticos”.
+Em um determinado momento, a inundação de web designers de médio e baixo
+custo regrediu. Web designers menos talentosos foram substituídos por usuários
+finais e outro pessoal de TI que não necessariamente dominava HTML. Nesse ponto,
+a oferta, demanda, e o preço de desenvolvimento chegou a um equilíbrio.
+Essa história sobre a evolução do web design mostra um modelo econômico de
+que todos nós já ouvimos falar, chamado oferta e demanda. Quando a maioria de
+nós pensa em oferta e demanda, achamos que tem a ver com o preço com que algo
+pode e será vendido. Se houver mais de um item à venda do que o número de pessoas
+querendo comprar aquele produto, então seu preço vai diminuir. Se houver mais
+pessoas querendo comprar o produto do que a quantidade de produtos disponíveis,
+o preço irá aumentar, de forma que os compradores concorram entre si.
+Além de prever o preço de bens e serviços, o modelo de oferta e demanda pode
+prever como as mudanças de preço irão afetar os que querem comprar e vender os
+produtos e serviços. Geralmente há mais compradores para um produto barato do
+que para um mais caro.
+Você não pode competir em preço. Na verdade, você não consegue competir em preço.
+–
+Por que isso é importante para nós? A tendência de fazer software offshore acaba
+de injetar uma grande oferta de pessoas de TI de baixo custo em nossa economia.
+Embora estejamos preocupados em perder empregos, o custo mais baixo por programador na verdade aumentou a demanda. Ao mesmo tempo, conforme a demanda
+aumenta, os preços diminuem. Concorrência em produtos e serviços com alta demanda acaba por movimentar também os preços. No mercado de empregos, isso
+significa salários. Você não pode competir em preço. Você não consegue. Então, o
+que fazer?
+O mercado de desenvolvimento offshore injetou seus programadores de baixo
+custo em um conjunto relativamente pequeno de tecnologias. Programadores Java e
+.NET são baratos e existem aos montes na Índia, junto dos DBAs Oracle. Tecnologias
+menos populares são pouco adotadas pelas empresas de offshore. Durante a escolha
+6
+Casa do Código Capítulo 2. Oferta e demanda
+de um conjunto de tecnologias para focar em sua carreira, você deve entender os
+efeitos da oferta crescente e menores preços.
+Como um desenvolvedor .NET, você deve se encontrar concorrendo com mais
+dezenas de milhares de pessoas do que, por exemplo, um desenvolvedor Python.
+Isso resultaria no custo médio de um desenvolvedor .NET reduzindo significativamente, possivelmente aumentando a demanda (nesse caso, criando mais empregos
+em .NET). Com isso, você encontraria emprego, mas que não pagaria tão bem. A
+oferta de programadores Python deve ser bem menor que a de .NET para suportar
+a demanda.
+Se o mercado de trabalho em Python estivesse pagando valores mais altos por
+programador, as pessoas ficariam atraídas por oferecer seus serviços por esses valores, resultando em concorrência, o que levaria os preços para baixo novamente.
+É tudo uma questão de balanceamento. Mas uma coisa parece certa (por enquanto). A Índia provê programadores para os mercados de TI que já estão balanceados. Você não encontra empresas de offshore indianas e famosas utilizando tecnologias não convencionais. Eles não são pioneiros. Eles geralmente não se arriscam.
+Eles esperam o mercado balancear para então entrarem nesse mercado com valores
+por programador significativamente mais baratos.
+Com base nessa observação, você deve escolher competir em segmentos do mercado em que há menor demanda. Por mais contraintuitivo que possa parecer, se você
+está preocupado em perder seu emprego para o offshore, uma estratégia seria evitar
+os tipos de trabalho que as empresas de offshore estão fazendo. Elas estão fazendo
+trabalhos com alta demanda. Então, focar em tecnologias de nicho é uma estratégia
+que, embora não necessariamente torne a competição menos feroz (há menos empregos para ir atrás), muda o foco da concorrência de preço para habilidade. É isso
+o que você precisa. Você não pode competir em preço, mas você pode competir em
+habilidade.
+Além disso, com o preço médio dos programadores de tecnologias mainstream
+em queda, a demanda irá crescer. Um aumento geral nessa demanda por programadores Java, por exemplo, pode resultar em mais empregos no seu país, não menos.
+Um aumento no mercado de offshore, que é barato, pode influenciar na demanda.
+Isso acontece na prática. Para que o offshore funcione bem, muitas empresas
+percebem a necessidade de manter uma quantidade de desenvolvedores de alto nível,
+que definam os padrões da empresa, garantam a qualidade e provenham liderança
+tecnológica. Um aumento na demanda por programadores Java iria naturalmente
+elevar demanda nessa categoria de trabalho. Os trabalhos mais baratos podem estar
+7
+Casa do Código
+indo para o offshore, mas há mais trabalhos de alto nível, ou de elite, do que havia antes da época do offshore. Como vimos nos mercados de nicho, a competição
+mudaria de preço para habilidade.
+Explore mercados não balanceados.
+–
+A lição mais importante que podemos levar do modelo de oferta e demanda é
+que com o aumento da demanda vem o aumento da concorrência de preço. Seguir
+esse caminho o levará a concorrer em preço com desenvolvedores offshore, pois suas
+habilidades irão se encaixar nos mercados balanceados em que o offshore atua. Para
+competir em tecnologias mainstream, você terá que enfrentar um nível mais alto.
+Alternativamente, você pode explorar mercados não balanceados, aonde as empresas
+de offshore não vão. Em ambos os casos é imprescindível entender as forças que estão
+em jogo e ser habilidoso e ágil o suficiente para reagir a elas.
+Faça algo
+1) Pesquise a demanda por habilidades técnicas. Use sites de vagas de trabalho e
+carreiras para encontrar quais habilidades estão em alta e em baixa demanda.
+Ache os sites de empresas de offshore (ou fale com funcionários dessas empresas).
+Compare as habilidades usadas nessas empresas com a lista que tecnologias em
+alta demanda que você fez. Anote as tecnologias às quais você vê que há uma boa
+demanda, mas que empresas de offshore não usam.
+Faça uma comparação similar entre tecnologias recentes e as habilidades pedidas
+por empresas de offshore. Fique de olho em ambos os conjuntos de habilidades
+técnicas que não são usadas pelas empresas de offshore. Quanto tempo levará
+para que elas preencham esse buraco? Esse tempo é a janela na qual há um mercado não balanceado.
+8
+Capítulo 3
+Escrever código não é suficiente
+Não é suficiente pensar em quais tecnologias você vai investir. Afinal, a parte de tecnologia é um bem, certo? Você não vai ser capaz de sentar e simplesmente dominar
+uma linguagem de programação ou um sistema operacional, permitindo que as pessoas de negócios cuidem da parte de negócios. Se tudo o que eles precisavam era de
+um robô de código, seria fácil contratar alguém de outro país para fazer esse trabalho. Se você quer permanecer relevante, vai ter que ir fundo no domínio do negócio
+dentro do qual você está.
+Na verdade, uma pessoa de software deve compreender um domínio não apenas
+bem o suficiente para desenvolver software para ele, mas também para se tornar uma
+de suas referências. Em uma empresa onde trabalhei, vi um excelente exemplo disso.
+A equipe de administração de banco de dados consistia de pessoas que realmente não
+estavam interessadas em tecnologia de banco de dados. Quando eu as encontrei pela
+primeira vez, foi um choque. Por que essas pessoas trabalham com tecnologia? Eu
+me perguntava. Em termos de habilidade técnica, eles não eram bons. Mas este time
+tinha algo especial. Sendo os guardiões e protetores de dados de nossa empresa, eles
+Casa do Código
+conheciam o domínio do negócio melhor do que quase qualquer analista de negócios
+que tínhamos. Seus conhecimentos e compreensão do negócio os tornaram figuras
+importantes nesse mercado. Enquanto nós, geeks, estávamos olhando para eles com
+desdém, o “negócio” para o qual eles trabalhavam via um enorme valor neles.
+Você deve pensar em sua experiência de domínio do negócio como uma parte
+importante do seu repertório. Se você é um músico, quando adicionar algo ao seu
+repertório, não significa apenas que você tocou a música uma vez. Significa que você
+realmente conhece a música. A mesma teoria deve ser aplicada à sua experiência de
+domínio. Por exemplo, depois de ter trabalhado em um projeto no setor de seguros
+de saúde, isso não garante que você entenda a diferença entre uma transação HIPAA 835 e uma HIPAA EDI 837. É esse tipo de conhecimento que diferencia dois
+desenvolvedores trabalhando nessa problema.
+Você pode ser “apenas um programador”, mas ser capaz de falar com seus clientes do negócio na língua de seu domínio de negócio é uma habilidade única. Imagine
+o quanto a vida seria mais fácil se todo mundo com que você tivesse que trabalhar
+realmente entendesse como funciona desenvolvimento de software. Não seria necessário explicar a eles por que é uma má ideia devolver 30000 registros em uma única
+página em uma aplicação web ou por que eles não compartilham o endereço para
+seu servidor de desenvolvimento. Esta é a forma como os seus clientes de negócios
+se sentem em relação a você: Imagine o quão mais fácil seria trabalhar com esses
+programadores, se eles entendessem o que eu estava pedindo, sem que eu tivesse
+que explicar tudo de forma tão burra e tão detalhista! E, adivinhem? É a empresa
+que paga o seu salário.
+Assim como as tecnologias se destacam, domínios podem ser escolhidos da
+mesma forma. Java e .NET são agora mainstream no desenvolvimento de software.
+Se você aprender essas linguagens, poderá concorrer a um emprego em uma das
+muitas empresas que utilizam estas tecnologias. O mesmo é verdade para os domínios. Ao escolher em qual indústria trabalhar, você deve ter o mesmo cuidado que
+teve ao decidir quais tecnologias dominar.
+Agora é hora de pensar nos domínios em que você investe seu tempo.
+–
+Além da importância que se deve dar ao escolher um domínio ao montar seu
+portfólio, a empresa e indústria em que você escolher trabalhar se tornam um investimento significativo em si próprio. Se você ainda não tiver parado para pensar em
+10
+Casa do Código Capítulo 3. Escrever código não é suficiente
+quais domínios deveria investir, agora é a hora. Cada dia que passa é uma oportunidade perdida. Da mesma forma que deixar suas economias em uma conta poupança
+de baixo rendimento, enquanto é possível conseguir taxas de juros mais altas, deixar
+o seu desenvolvimento em negócios parado é uma péssima escolha de investimento.
+Faça algo
+1) Agende um almoço com um empresário. Converse sobre como eles trabalham.
+Durante a conversa, pergunte a si mesmo o que você teria que mudar ou aprender
+se quisesse ter o trabalho dele. Pergunte sobre as especificidades do seu trabalho.
+Converse sobre como tecnologia os ajudam (ou atrapalham). Pense no seu trabalho a partir da perspectiva deles.
+Faça isso regularmente.
+Isso pode parecer uma ideia estranha ou desconfortável. Tudo bem. Eu comecei
+a fazer isso há muitos anos e isso fez uma grande diferença na forma como eu
+entendia e me relacionava com o negócio no qual eu estava trabalhando. Eu também me senti mais confortável falando com os meus clientes, o que é um efeito
+colateral positivo.
+2) Pegue uma revista especializada na indústria de sua empresa. Provavelmente você
+não terá nem sequer que comprá-la. A maioria das empresas tem essas revistas
+espalhadas em algum lugar. Comece a lê-la. Provavelmente você não irá entender
+tudo o que lê, mas seja persistente. Faça listas de perguntas que você pode fazer a
+seus gerentes ou clientes. Mesmo que suas perguntas lhe pareçam estúpidas, seus
+clientes vão perceber que você está tentando aprender.
+Procure sites que você possa monitorar de forma regular. Tanto nos sites como
+nas revistas, preste atenção ao assunto das grandes notícias e dos artigos. Quais
+são os problemas que a indústria está tentando resolver? Qual é o novo assunto
+dominante? Seja o que for, converse sobre isso com seus clientes. Peça para eles
+lhe explicarem e darem suas opiniões. Pense em como essas tendências atuais
+afetarão sua empresa, sua área, sua equipe, e eventualmente, o seu trabalho.
+11
+
+Capítulo 4
+Seja o pior
+Pat Metheny, lendário guitarrista de jazz, costuma dar um conselho para jovens músicos: “Sempre seja o pior cara da banda em que você estiver”.
+Antes de iniciar minha carreira em TI, eu tocava jazz e saxofone profissionalmente. Como músico, eu tive a sorte de aprender esta lição bem cedo. Ser o pior
+cara da banda significa sempre tocar com pessoas que são melhores do que você.
+Seja o pior em qualquer grupo em que estiver.
+–
+Agora, por que você escolheria ser a pior pessoa em uma banda? “Isso não é
+irritante?”, você se pergunta. Sim, é extremamente irritante, no começo. Como um
+jovem músico, eu me via em situações em que ficava tão óbvio que eu era o pior cara
+da banda, que eu tinha certeza que iria ficar de fora. Eu apareceria para o show mas
+nem pegaria meu sax, com medo de ser expulso da apresentação. Eu estava perto de
+pessoas as quais antes eu observava e em cujo nível esperava tocar, às vezes como o
+instrumento principal.
+Casa do Código
+Sem falhar (felizmente!), algo mágico acontecia: eu me encaixava no grupo. E
+não me destacava como uma estrela entre os outros músicos. Mas por outro lado, eu
+não era, também, deixado de lado. Isto acontecia por duas razões. A primeira é que
+eu não era tão ruim quanto eu pensava. Vou falar disso depois.
+A razão mais interessante pela qual eu me encaixava com estes caras tão bons,
+alguns até meus heróis, é que minha música se parecia com a deles. Eu achava que eu
+tinha algum tipo de super poder de me transformar em um gênio simplesmente por
+estar ao lado de algum deles, mas na verdade, é algo bem menos interessante que isso.
+Era um comportamento instintivo, programado em mim. É o mesmo fenômeno que
+faz com que eu fale mais difícil, use um diferente vocabulário ou hábitos gramaticais
+quando estou perto de pessoas que falam de forma diferente. Quando voltamos da
+Índia, após viver um ano e meio por lá, minha esposa, às vezes, me ouvia falando e
+morria de rir. “Você ouviu o que você disse?” — eu estava falando inglês indiano.
+Ser o pior cara da banda trouxe o mesmo comportamento em mim como um
+saxofonista. Naturalmente eu tocava como os outros. O que torna esse fenômeno
+realmente sem glamour é que quando eu tocava em cassinos e bares com bandas
+não tão boas, eu tocava mal como eles. Além disso, meio que naturalmente eu via
+os maus hábitos das bandas sendo levados por mim para as noites nas quais eu não
+tocava com eles.
+Com isso, eu aprendi que as pessoas podem melhorar ou piorar em habilidade,
+apenas levando em conta com quem elas estão trabalhando. E ficar em um grupo
+por muito tempo pode impactar na capacidade da pessoa.
+As pessoas ao seu redor afetam a sua performance. Escolha bem seu grupo.
+–
+Mais tarde, conforme eu me mudei para a indústria de tecnologia, percebi que o
+hábito de procurar os melhores músicos era natural para mim como um programador. Talvez inconscientemente eu procurei trabalhar com as melhores pessoas de TI.
+E, não surpreendentemente, essa lição é verdade. Ser o pior cara (ou garota, é claro)
+na equipe tem o mesmo efeito de ser o pior cara da banda. Você acha que é inexplicavelmente mais inteligente. Você pode até mesmo falar e escrever de forma mais
+inteligente. Seus códigos ficam mais elegantes e você acredita ser capaz de resolver
+problemas difíceis com soluções cada vez mais criativas.
+Vamos voltar para a primeira razão pela qual eu fui capaz de me integrar a essas bandas melhor do que eu esperava. Eu realmente não era tão ruim quanto eu
+pensava. Na música, é muito fácil medir se os outros músicos pensam que você é
+14
+Casa do Código Capítulo 4. Seja o pior
+bom. Se você é bom, eles o convidam para tocar com eles novamente. Se você não
+for bom, eles o evitam. É uma medida muito mais confiável do que apenas perguntar
+o que eles pensam, porque bons músicos não gostam de tocar com músicos ruins.
+Para minha surpresa, eu percebi que, em muitos desses casos, eu era telefonado por
+um ou mais desses músicos superiores para algum trabalho adicional ou até mesmo
+para começar bandas com eles.
+Tentar ser o pior faz com que você pare de se vender por tão pouco. Você pode
+pertencer à banda A, mas sempre se coloca na banda B, pois está com medo. Reconhecer abertamente que você não é o melhor tira o medo de você ser descoberto
+da forma que você não gostaria. Na verdade, mesmo quando você tentar ser o pior,
+você não será.
+Faça algo
+1) Encontre uma situação para você ser o pior. Você pode não se dar ao luxo de
+mudar de equipe ou até mesmo de empresa só porque quer trabalhar com pessoas
+melhores. Em vez disso, encontre um projeto para trabalhar como voluntário em
+que você possa trabalhar com outros desenvolvedores, que irão torná-lo melhor
+por osmose. Veja se há encontros de grupos de desenvolvedores em sua cidade
+e participe dessas reuniões. Desenvolvedores estão frequentemente procurando
+por projetos para ocupar seu tempo livre, praticar novas técnicas e aprimorar suas
+habilidades.
+Se não há uma comunidade ativa perto de você, use a internet. Escolha um projeto open source de que você goste e cujos desenvolvedores parecem estar em um
+nível acima do seu. Vá até a lista de tarefas do projeto ou o histórico da lista de
+discussão, escolha uma funcionalidade ou uma correção de bug importante e escreva o código! Imite o estilo de código do projeto. Faça disso um jogo. Faça o
+seu código de forma que ele seja indistinguível do restante do projeto, de modo
+que até mesmo os desenvolvedores originais não saibam quem escreveu. Então,
+quando você estiver satisfeito com o seu trabalho, submeta suas modificações. Se
+for bom, vai ser aceito no projeto. Comece de novo e faça novamente. Se você
+tomou decisões das quais os desenvolvedores do projeto discordam, pegue o feedback deles, use-o para melhorar seu código e envie novamente as modificações.
+Se eles modificarem seu código, tome nota das alterações que fizeram. Em seu
+próximo patch, tente fazer com que ele seja aceito com menos retrabalho. Eventualmente, você vai perceber que irá se tornar alguém de confiança da equipe do
+15
+Casa do Código
+projeto. Você vai se surpreender com o que se pode aprender a partir de um conjunto remoto de desenvolvedores seniores, mesmo se você nunca teve a chance
+de ouvir suas vozes.
+16
+Capítulo 5
+Invista em sua inteligência
+Quando escolher em que focar, pode ser tentador simplesmente olhar para as tecnologias que geram mais empregos e concentrar-se nelas. Java é grande. .NET é
+grande. Aprender Java tem um efeito simples, transitivo: se eu sei Java, eu posso me
+candidatar, e possivelmente, conseguir um trabalho onde vou escrever código Java.
+Usando essa lógica, seria insensato escolher investir em um nicho de tecnologia,
+especialmente se você não tem intenção de tentar explorá-lo.
+O TIOBE, http://www.tiobe.com, usa os sites de busca da internet para identificar a popularidade de linguagens de programação, com base em pessoas falando
+sobre as linguagens. Segundo o TIOBE, “Os números são baseados na disponibilidade mundial de engenheiros qualificados, cursos e fornecedores”. Definitivamente
+não é uma medida cientifica de popularidade, mas não deixa de ser um bom indicador.
+No momento da escrita desse livro, a linguagem mais popular é o Java, seguido
+por C. C# está em um respeitável sexto lugar, mas com uma trajetória levemente na
+ascendente. ABAP está em décimo sétimo lugar e está caindo lentamente. Ruby, que
+Casa do Código
+é a minha linguagem favorita — na qual eu faço praticamente todo o meu trabalho
+sério e aquele para o qual eu co-organizo uma conferência internacional a cada ano
+— está em décimo primeiro lugar. E no momento em que a primeira edição deste
+livro foi publicada, ela não ficou nem entre os top vinte. Ficou abaixo de ABAP!
+Por que Ruby? Eu estava louco ou fui burro? Deve ser um dos dois, certo?
+Em seu trabalho chamado “Grandes Hackers” — http://paulgraham.com/gh.
+html, Paul Graham deixou a comunidade de desenvolvedores irritadíssima com a
+afirmação de que os programadores Java não eram tão espertos quanto quem programava em Python. Ele deixou bravo um monte de programadores Java burros (eu
+disse isso?), fazendo com que vários deles escrevessem respostas a ele em seus sites.
+A reação violenta indica que ele atingiu algo. Eu estava na plateia quando seu trabalho foi apresentado pela primeira vez, na forma de um discurso. Ele causou um
+flashback em mim.
+Eu estava em uma viagem de recrutamento na Índia, no meio de centenas de
+candidatos para dezenas de vagas, e a equipe de entrevistadores estava cansada e
+ficando sem tempo por conta do baixo índice de entrevistas bem sucedidas, que resultassem em contratações. Com dores de cabeça e olhos vermelhos, fizemos uma
+reunião tarde da noite para discutir uma mudança estratégica na forma como iríamos abordar os candidatos. Nos tínhamos que otimizar o processo para que pudéssemos entrevistar mais pessoas ou de alguma forma entrevistar pessoas melhores (ou
+ambos). Com o pouco que restava da minha voz depois de doze horas seguidas de
+tentar arrancar respostas de programadores mudos, eu pedi para adicionar Smalltalk
+para a lista de palavras-chave que nossos headhunters estavam usando para procurar
+no banco de dados de currículos. “Mas ninguém sabe Smalltalk na Índia”, gritou o
+diretor de recursos humanos. Esse foi o meu ponto. Ninguém sabia, e programar
+em Smalltalk era uma experiência diferente de programar em Java. A mudança da
+experiência daria aos candidatos um nível diferente de expectativas, e a natureza dinâmica de Smalltalk levaria a uma outra maneira com a qual um programador Java
+iria abordar um problema. Minha esperança era que esses fatores encorajassem um
+nível de maturidade técnica que eu não tinha visto dentre os candidatos que eu conhecia até então.
+A adição de Smalltalk para a lista de requisitos rendeu um grupo de candidatos
+que era pequeno se comparado com nossa lista anterior. Essas pessoas eram diamantes brutos. Elas realmente aprenderam programação orientada a objetos. Estavam
+cientes de que o Java não era a loucura idealista como às vezes era pintada. Muitos deles amavam programar! "Onde você esteve nas últimas duas semanas?”, nós
+18
+Casa do Código Capítulo 5. Invista em sua inteligência
+pensávamos.
+Infelizmente, a nossa capacidade de atrair esses desenvolvedores, com os salários
+que éramos capazes de pagar, era limitada. Eles ditavam o tom, e a maioria deles preferiu ficar onde estava ou continuou procurando um novo emprego. Apesar de não
+conseguirmos recrutar muitos deles, aprendemos uma lição valiosa de recrutamento:
+nós estávamos mais propensos a fazer propostas para candidatos com experiências
+diversas (e até mesmo pouco ortodoxas) do que para aqueles cuja experiência era
+homogênea. Minha explicação é que, ou as pessoas boas buscam a diversidade, pois
+elas amam aprender coisas novas, ou ser forçado em experiências e ambientes mais
+exóticos criava programadores mais maduros e preparados. Eu acredito que seja um
+pouco dos dois, mas, independentemente do motivo pelo qual ele funciona, a gente
+descobriu que isso funciona. Eu continuo usando esta técnica quando procuro desenvolvedores.
+Então, ao invés de tentar simplesmente aparecer na minha frente quando eu estiver à procura de alguém para contratar, por que você não vai investir em tecnologias
+em que você raramente terá a chance de ser pago para trabalhar?
+Para mim, como um gerente de contratação, a primeira razão é que isso mostra
+que você está interessado. Se eu sei que você aprendeu alguma coisa por causa do
+autodesenvolvimento e (melhor ainda) pura diversão, eu sei que você está animado
+e motivado sobre a sua profissão. Fico muito irritado quando pergunto às pessoas se
+elas já viram ou usaram algumas tecnologias não tradicionais e ouço como resposta:
+“não me deram a oportunidade de trabalhar com isso”. Não lhe deram oportunidade?
+Pra mim também não! Eu fiz a oportunidade para aprender.
+Não lhe deram a oportunidade...? Faça a oportunidade!
+–
+Mais importante do que retratar a percepção de que se está devidamente motivado e engajado em sua área é que a exposição a essas tecnologias e metodologias
+não tradicionais lhe traz mais profundidade e o torna melhor, mais inteligente e mais
+criativo.
+Se essa não é uma razão suficientemente boa, então provavelmente você está na
+profissão errada.
+Faça algo
+19
+Casa do Código
+1) Aprenda uma nova linguagem de programação. Mas não vá de Java para C# ou
+de C para C++. Aprenda uma nova linguagem que o faça pensar de uma maneira
+diferente. Se você é um programador Java ou C#, tente aprender uma linguagem
+como Smalltalk ou Ruby, que não usem tipagem forte e estática. Ou, se está programando orientado a objetos por bastante tempo, tente uma linguagem funcional como Haskell ou Scheme. Não precisa se tornar um especialista. Faça código
+o suficiente para que você realmente sinta a diferença de programar no novo ambiente. Se ela não soar estranha o suficiente, ou você escolheu a linguagem errada
+ou você está aplicando sua velha forma de pensar na nova linguagem. Peça para
+desenvolvedores mais experientes reverem o seu código e fazerem sugestões que
+o tornem idiomaticamente mais correto.
+20
+Capítulo 6
+Não escute seus pais
+Em nossa cultura, se existe algo que é sagrado, provavelmente são os conselhos dados
+por nossos pais. É visto como um dever da criança segui-los religiosamente. Livros,
+filmes e histórias de televisão formam um conjunto de ideias na cabeça de nossos
+pais. Mas para nossas carreiras no mercado de trabalho, esta ideia é errada.
+Seus pais preferem que você esteja estável ao invés de conseguir uma carreira
+notável ao custo de correr grande risco pessoal. Mais do que quaisquer outras pessoas, eles vão lhe dar conselhos influenciados pelo medo. Conselhos influenciados
+pelo medo tendem ao não perder. Mas pensar em não perder não é o caminho para
+ganhar! Vencedores assumem riscos. Eles pensam sobre aonde eles querem ir, não
+onde o resto das coisas estão. Planejamento de carreira guiado pelo medo provavelmente o levará a algum cubículo para o resto de sua vida, em vez de ao caminho para
+a grandeza. Claro, é seguro, mas não é divertido.
+Para as gerações anteriores, diversão não era fator decisivo quando o assunto era
+opções de carreira. Empregos não deveriam ser divertidos. Eles deveriam trazer comida pra casa. Diversão é o que você faz nos seus dias de folga. Diversão acontece
+Casa do Código
+nas noites e fins de semana. Mas se o seu trabalho não é divertido, como temos percebido, você não o faz bem. As coisas não são diferentes agora, mas nossa compreensão
+cultural do que significa trabalhar mudou para melhor. Mais pessoas entendem que
+a paixão leva à excelência. E sem diversão, não é provável que haja qualquer paixão
+em um trabalho.
+Outro fator de tomada de decisão sobre carreira, que provavelmente não vai de
+encontro com o pensamento dos seus pais, é que não há problema em mudar de
+emprego (na verdade, muitas vezes é preferível). Um profissional de software experiente já viu o mercado por diferentes ângulos: desenvolvimento de produto, suporte
+de TI, desenvolvimento de sistemas internos e trabalho para o governo. Quanto mais
+domínios e arquiteturas técnicas você já tenha visto e trabalhado, mais está preparado para tomar as decisões corretas em projetos mais desafiadores. Ficar em uma
+única empresa, trabalhando para subir na hierarquia, é um ambiente limitador para
+crescer como um desenvolvedor. Já foi o tempo em que as pessoas começavam sua
+carreira em uma empresa e ficavam lá mesmo até se aposentar. Este tipo de comportamento costumava ser sinal de dedicação. Agora é uma responsabilidade. Se você
+só trabalhou em um lugar e viu aquele conjunto de sistemas, muitos gerentes (inteligentes) podem ver isso como um ponto negativo contra você quando for decidir
+se deve contratá-lo. Eu pessoalmente prefiro contratar alguém que tenha vivenciado
+diversas situações de sucessos e fracassos em ambientes diferentes do que alguém
+que conhece apenas um jeito de fazer as coisas.
+Há muitos anos, eu percebi que a minha própria carreira tinha sido muito influenciada pelos valores profissionais dos meus pais e sua geração. Eu trabalhei em
+uma das maiores e mais estáveis empresas do mundo e estava crescendo em um ritmo
+lento e constante. Mas eu estava estagnando. Eu ficava me dizendo que eu não estava catando migalhas, baseando-me no fato de que a empresa era tão grande que eu
+poderia executar diferentes tarefas em uma aparente infinidade de lugares. Mas no
+final, eu ficava no mesmo lugar fazendo o mesmo tipo de trabalho.
+Eu me lembro de conversar com um amigo sobre sair da empresa, e ele disse: “É
+o seu destino trabalhar em grandes empresas para o resto da sua vida?” Claro que
+não! Então, eu rapidamente encontrei outro emprego e saí.
+Este movimento marcou o início de um salto no meu sucesso na indústria de
+software. Eu vi novos domínios, trabalhei em problemas mais difíceis, e fui recompensado como nunca havia sido. Algumas vezes chegava até a ser assustador, mas
+quando eu decidi ser menos influenciado pelo medo e menos conservador nas decisões sobre minha carreira, ela acabou mudando e para melhor.
+22
+Casa do Código Capítulo 6. Não escute seus pais
+Assuma riscos em sua carreira. Não deixe o medo o consumir. E se você não
+estiver se divertindo, você não vai ser excelente.
+Como eu abri mão de 300 mil dólares na Microsoft para trabalhar full
+time no Github
+Por Tom Preston Werner
+Em 2007 eu estava sentado sozinho em uma mesa no Zeke Sports Bar and Grill
+na 3rd Street, em San Francisco. Eu normalmente não vou a bares de esportes, e
+muito menos a um bar de esportes em SOMA, mas aquela quinta-feira foi uma noite
+"I Can Has Ruby”. Naquela época, eu acho que "I can has _” também foi um apelido
+razoável para dar a praticamente qualquer coisa. ICHR era um encontro de hackers
+Ruby que geralmente mergulhavam em sessões de fim de noite bebendo. Normalmente as noites passavam, como a minha ressaca na manhã seguinte, mas esta noite
+foi diferente. Esta foi a noite em que nasceu o GitHub.
+Eu acho que estava sentado na mesa sozinho, porque tinha acabado de pedir
+um Fat Tire e precisava dar uma parada na socialização que estava acontecendo nas
+mesas longas e mal iluminadas do bar. No quinto ou sexto gole, Chris Wanstrath
+entrou, eu não sei dizer se na época Chris e eu éramos amigos. Nós nos encontramos em meetups Ruby e conferências, mas apenas casualmente, com um mútuo “Ei,
+eu acho seu código impressionante”. Eu não sei o que me fez fazer isso, mas eu fiz
+um sinal para ele e disse: “Cara, olha isso”. Cerca de uma semana antes, eu tinha começado a trabalhar em um projeto chamado Grit, que permitia acessar repositórios
+Git através de código Ruby de forma orientada a objetos. Chris era um dos poucos
+rubistas na época que estava começando a levar Git a sério. Ele se sentou e eu comecei a mostrar o que eu tinha. Não era muito, mas foi o suficiente para ver que
+tinha despertado algo em Chris. Percebendo isso, lancei um site meia-boca que funcionava como hub para programadores que queriam compartilhar seus repositórios
+Git. Eu até tinha um nome: GitHub. Posso estar parafraseando, mas sua resposta foi
+um enfático “Estou dentro! Vamos fazer isso!”
+Na noite da próxima sexta-feira, 19 de outubro de 2007, às 22:24, Chris fez o
+primeiro commit para o repositório do GitHub, marcando o início de nossa joint
+venture.
+Até então, não havia nenhum acordo sobre como as coisas iriam funcionar. Éramos apenas dois caras que decidiram hackear juntos em algo que parecia legal.
+Lembra daqueles minutos incríveis do Karate Kid em que Daniel está treinando
+para se tornar um especialista em artes marciais? Lembra da música? Bem, você
+23
+Casa do Código
+deveria ouvir, porque estou prestes a lhe contar uma história. A música é You are the
+best do Joe Esposito.
+Pelos os próximos três meses, Chris e eu passamos horas planejando e codificando o GitHub. Eu continuei com o Grit e desenhei a interface do usuário. Chris
+construiu a app Rails. Nós nos encontrávamos todos os sábados para tomar decisões de design e tentar pensar no nosso plano de preços. Eu me lembro de um dia
+muito chuvoso em que conversamos por umas boas duas horas sobre as diferentes
+estratégias de preços dos melhores egg rolls vietnamitas da cidade. Fizemos tudo
+isso mantendo nossos compromissos. Eu, por exemplo, trabalhava em tempo integral na Powerset como desenvolvedor de ferramentas para o Ranking e a equipe da
+Relevance.
+Em meados de janeiro, após três meses de noites e finais de semana, lançamos
+um beta privado e enviamos convites para nossos amigos. Em meados de fevereiro,
+PJ Hyett se juntou a nós. Lançamos o site ao público em 10 de abril. Não convidamos
+o TechCrunch. Neste ponto, nós éramos apenas três caras de 20 e poucos anos sem
+um centavo sequer de investimento externo.
+Eu ainda estava trabalhando em tempo integral na Powerset em 1 de julho de
+2008, quando soubemos que ela tinha acabado de ser adquirida pela Microsoft por
+cerca de US$ 100 milhões. Um timing interessante. Com a aquisição, eu estava a caminho de ser confrontado com uma escolha muito mais cedo do que eu imaginava.
+Eu poderia me tornar um funcionário da Microsoft ou sair e ir cuidar do GitHub
+em tempo integral. Aos 29 anos de idade, eu era o mais velho dos três GitHubbers
+e tinha acumulado uma quantidade proporcionalmente maior de dívidas e despesas
+mensais. Eu estava acostumado com meu estilo de vida de seis dígitos. Para confundir ainda mais, minha esposa, Theresa, estava para voltar do seu PhD, na Costa Rica.
+Logo eu iria voltar a ser um homem casado.
+Para tornar a decisão ainda mais difícil, a oferta de emprego da Microsoft foi tentadora. Salário, mais 300000 dólares em três anos. Isso é dinheiro o suficiente para
+fazer qualquer pessoa pensar duas vezes sobre qualquer coisa. Então, fui confrontado com isso: um trabalho seguro na Microsoft e com muito dinheiro garantido ou
+um trabalho arriscado, com quantidades desconhecidas de dinheiro, como empresário. Eu sabia que as coisas com os outros Githubbers ficariam tensas se eu não saísse
+da Powerset. Por terem guardado algum dinheiro e se tornado freelancers há algum
+tempo, ambos tinham começado a se dedicar em tempo integral no GitHub. Era
+hora de “fazer ou morrer”. Era escolher o GitHub e investir nele ou fazer a escolha
+segura e desistir do GitHub para fazer dinheiro na Microsoft.
+24
+Casa do Código Capítulo 6. Não escute seus pais
+Se você quer uma receita para uma péssima noite de sono, eu posso lhe dar. Adicione uma pedaço de “O que minha mulher acha?”, com 3.000 pedaços de Benjamin
+Franklin, misture com uma “cerveja a hora que você bem entender” e adicione uma
+cobertura de chance de independência financeira.
+Eu me tornei muito bom em chegar nos meus chefes e dar a má notícia de que eu
+estava deixando a empresa para ir fazer alguma coisa mais legal. Eu dei a notícia para
+meu chefe na Powerset na data limite de responder à proposta. Eu disse que estava
+saindo para ir trabalhar em tempo integral no GitHub. Como qualquer grande chefe,
+ele estava chateado, mas entendeu. Ele não tentou me seduzir com um bônus maior
+ou qualquer coisa do tipo. Acho que no fundo ele sabia que eu ia sair. Talvez eu tenha
+até recebido mais incentivo para ficar do que os outros, por conta do risco. E vou lhe
+dizer, aqueles gerentes da Microsoft eram persistentes. Eles têm bônus de retenção
+como uma ciência — bem, exceto quando você tem um empreendedor no conjunto,
+a singularidade do mundo dos negócios. Tudo é desequilibrado quando você tem
+um deles por perto.
+No final, assim como Indiana Jones nunca poderia recusar a oportunidade para
+procurar o Santo Graal, eu também não poderia perder a chance de trabalhar para
+mim mesmo em algo que eu realmente amo, não importa o quão segura outra opção
+fosse. Quando eu estiver velho e morrendo, eu pretendo olhar para trás em minha
+vida e dizer: “Uau, que aventura”, não “Uau, me senti seguro.”
+Tom Preston-Werner é co-fundador do GitHub.
+Faça algo
+1) Quais são seus maiores medos com relação à sua carreira? Pense sobre as últimas
+decisões de carreira que você tomou. Não precisam ser grandes decisões (afinal,
+se você está fazendo escolhas influenciadas por medo, suas decisões provavelmente não serão grandes). Por exemplo, pode ser se você aceitou alguma tarefa
+especial, ou se candidatou para uma promoção. Faça uma lista dessas escolhas,
+e para cada uma, obrigue-se a fazer uma avaliação honesta: o quanto dessa sua
+decisão foi conduzida pelo medo? O que você teria feito se o medo não o tivesse
+influenciado? Se a decisão foi de fato influenciada pela medo, como você pode
+revertê-la ou encontrar uma oportunidade similar, em que possa tomar a decisão
+com menos medo?
+25
+
+Capítulo 7
+Seja generalista
+Por pelo menos algumas décadas, gerentes e donos de empresas desesperados têm
+fingido que o desenvolvimento de software é um processo fabril. Especificações de
+requisitos são criadas e os arquitetos as transformam em algo de nível técnico. Designers completam a arquitetura com a documentação detalhada do projeto, que é
+entregue para programadores robô, que com uma mão seguram um livro ruim e com
+a outra escrevem código. Por fim, um investigador recebe o código completo, que
+não ganha o selo de aprovação a menos que cumpra as especificações originais.
+Não é nenhuma surpresa que os gestores queiram que o desenvolvimento de
+software seja como uma fábrica. Eles “entendem” como fazer fábricas funcionarem.
+Temos décadas de experiência em como construir objetos físicos eficientemente. Assim, aplicando o que aprendemos de manufatura, devemos ser capazes de otimizar o
+processo de desenvolvimento de software para como qualquer outra indústria funciona.
+Na tão falada fábrica de software, os funcionários são especialistas. Eles se sentam em seu lugar na linha de montagem, combinando componentes Java ou apa-
+Casa do Código
+rando arestas de um aplicativo Visual Basic. O investigador é um testador. Os componentes vão passando e são testados e carimbados da mesma forma todo dia. Designers J2EE desenham aplicações J2EE. Programadores C++ programam em C++.
+O mundo é muito limpo e organizado.
+Infelizmente, a analogia da fábrica não funciona. Software é no mínimo tão maleável como os requisitos de software. As coisas mudam no negócio, e os empresários
+sabem que o software é soft e pode ser alterado para atender a essas mudanças. Isso
+significa que arquitetura, design, código e os testes devem todos ser criados e revisados de uma forma mais ágil do que os processos de fabricação mais enxutos podem
+proporcionar.
+Neste tipo de ambiente de mudanças rápidas, o flexível irá sobressair. Quando há
+pressão, um empresário inteligente vai até um profissional de software que consiga
+resolver o problema. Então, como você se torna a pessoa cujo nome é lembrado
+quando eles estão à procura de um super-herói para salvar o dia? A chave é ser
+capaz de resolver os problemas que possam surgir.
+Quais são esses problemas? É isso mesmo: você não sabe. Nem eu. O que eu
+sei é que há problemas dos mais diversos, como de implantação, falhas de projeto
+críticos que precisam ser resolvidos e rapidamente reimplementados, integração de
+sistemas heterogêneos e geração de relatórios. Diante de um conjunto de problemas
+tão diversos como este, aquele investigador ficaria rapidamente para trás.
+O rótulo de “conhece um pouco de tudo, mas tudo de nada” é normalmente pejorativo, o que implica que o rotulado não tem o foco para realmente mergulhar em
+um assunto e dominá-lo. Mas, quando sua loja online está fora do ar e você está
+perdendo centenas de vendas conforme o tempo passa, é o “conhece um pouco de
+tudo” que não só sabe como funciona o código do aplicativo, mas também pode fazer
+debug dos processos no servidor web rodando em UNIX, analisar a configuração do
+seu banco de dados para possíveis gargalos de performance, e verificar a configuração de seu roteador de rede para encontrar problemas difíceis. E, mais importante,
+depois de encontrar o problema, o “conhece um pouco de tudo” pode rapidamente
+tomar decisões de arquitetura e de design, implementar correções de código, e implantar uma correção para o sistema em produção. Neste cenário, a ideia de fábrica
+parece bem antiquada na melhor das hipóteses e terrivelmente falha na pior.
+Outro ponto em que a fábrica de software não funciona é que, em contraste com
+uma linha de montagem em que o trabalho continua vindo em um fluxo constante,
+projetos de software são geralmente cíclicos. Não só o fluxo dos projetos são cíclicos,
+mas o trabalho dentro de um projeto também é. Um programador fica lá sentado na
+28
+Casa do Código Capítulo 7. Seja generalista
+cadeira enquanto os requisitos estão sendo especificados, arquitetados e projetados,
+ou o programador trabalha ao mesmo tempo em vários projetos. O problema com
+os programadores multitarefa é que, apesar das intenções da fábrica de software,
+quando o bicho pega, os programadores se baseiam bastante no contexto e na experiência para concluir seus trabalhos. Requisitos, arquitetura e documentos de design
+podem ser um começo, mas no final, se os programadores não entenderem o que o
+sistema deve fazer, eles não serão capazes de implementá-lo bem.
+Claro que aqui eu não estou pegando no pé só de programadores. O mesmo
+é verdade em quase todas os pontos da linha de montagem de software. Contexto
+importa, e ser multitarefa não funciona. Como resultado, temos um sistema de produção ineficiente. Já houve várias tentativas de resolver este problema de ineficiência,
+sem sair do sistema de produção de inspiração em fábricas, mas ainda não descobrimos como otimizar nossas fábricas de software a um nível aceitável.
+Se você é “apenas” um programador, ou um testador, ou um designer, ou um
+arquiteto, você vai se encontrar ocioso ou fazendo trabalho pesado e sem importância durante vários momentos do seu projeto. Se você é “apenas” um programador
+J2EE, ou um programador .NET, ou um programador de sistemas UNIX, você não
+vai ter muito a contribuir quando o foco de um projeto ou de uma empresa de mudar, mesmo que temporariamente, da sua área de foco. Não é sobre onde você está
+na cadeia de valor de trabalho percebido do projeto (onde o arquiteto tem o posto
+mais alto da realeza). É sobre o quão útil você é.
+Se seu objetivo é ser a última pessoa de pé em meio a rodadas de demissões ou
+terceirização de trabalho, é melhor se tornar “genericamente” útil. Se você tem medo
+de que o seu escritório de desenvolvimento, que antes era lotado, vire a casa de um
+bando de gente estranha, ajudaria se você percebesse que quando o time tem apenas algumas vagas, o “só testador” ou o “apenas codificador” não serão requisitados.
+Melhor, se você só quer se destacar e ser notável, envolver-se no todo é o melhor que
+você faz.
+Generalistas são raros...e por isso, preciosos.
+–
+O caminho para se tornar um generalista é não se rotular com um papel específico ou tecnologia. Podemos nos tornar flexíveis em nossas carreiras de muitas maneiras. Para entender o que significa ser um generalista, podemos dar uma olhada
+em como está o cenário das carreiras de TI, em diferentes aspectos independentes.
+29
+Casa do Código
+Eu consigo pensar em cinco, mas é claro que há uma infinidade (tudo depende de
+como você separa os assuntos):
+• Degrau na escada da carreira;
+• Plataforma / OS;
+• Código x dados;
+• Sistemas x aplicações;
+• Negócio x TI.
+Essas são diferentes formas pelas quais você poderia abordar o problema de se
+tornar um generalista. Esta é apenas uma maneira de pensar sobre toda a sua carreira, e você provavelmente pode ter uma lista melhor para si próprio. Por agora,
+vamos discutir esses pontos.
+Primeiro, você pode optar por ser um líder ou gerente, ou ser uma pessoa técnica. Ou, você pode se autoclassificar um arquiteto em vez de ser um programador
+ou testador. A capacidade de ser flexível nos papéis que você pode e vai ter é um
+atributo cujo valor muitas pessoas não compreendem. Por exemplo, enquanto um
+líder forte deve evitar ao máximo se intrometer, esse novo mundo de equipes de
+desenvolvedores terceirizados pode se beneficiar de uma pessoa que sabe como liderar pessoas e projetos, mas também pode arregaçar as mangas e corrigir alguns
+bugs críticos de última hora, enquanto a equipe offshore está dormindo. O mesmo
+vale para um arquiteto de software que possa acelerar dramaticamente o progresso
+em um projeto se ele escrever um pouco de código. Quando se trata de atravessar
+hierarquias, não é a relutância que impede as pessoas de fazê-lo. É a capacidade.
+Programadores nerds não podem liderar, e os líderes e gerentes não podem escrever
+código. É raro encontrar alguém seja bom nos dois.
+Suas habilidades transcendem tecnologias.
+–
+Outra falha imperdoável é encontrada quando falamos de plataformas e sistemas
+operacionais. Ser um cara UNIX que se recusa a trabalhar com Windows é cada vez
+mais inviável. O mesmo vale para .NET vs J2EE ou quaisquer outras plataformas de
+infraestrutura. O tempo vai exigir que você seja neutro com relação à plataforma
+no seu ambiente de trabalho. Todos nós temos nossas preferências, mas você vai
+30
+Casa do Código Capítulo 7. Seja generalista
+ter que deixar seus ideais em casa. Domine um e fique bom no outro. Suas habilidades devem transcender a tecnologia e plataforma. Ela é apenas uma ferramenta.
+Se queremos alguém que só saiba Windows, podemos contratá-lo nas Filipinas. Se
+quisermos alguém que realmente entenda de Windows e UNIX e pode integrá-los,
+provavelmente vamos procurar aqui por perto. Não seja deixado de lado por causa
+de algo que é essencialmente espírito de equipe.
+A linha que divide o administrador de banco de dados (um papel solidificado
+em TI na última década) e desenvolvedor de software também é tênue. Ser um administrador de banco de dados ou DBA, significa em muitos lugares saber como
+usar alguma ferramenta visual de administração e como configurar um banco de
+dados. Você não precisa necessariamente saber muito sobre como usar o banco nas
+aplicações. Por outro lado, os desenvolvedores estão cada vez mais preguiçosos e
+ignorantes sobre como trabalhar com bancos de dados. Cada lado alimenta o outro.
+O que mais me surpreendeu quando eu entrei na área de TI era que muitos programadores (talvez a maioria) não sabiam como configurar os ambientes que eles
+utilizavam para o desenvolvimento e para deploy. Eu trabalhei com desenvolvedores
+que não conseguiam sequer instalar um sistema operacional em um computador se
+você pedisse, muito menos configurar um servidor de aplicações para fazer o deploy
+das suas aplicações. É raro encontrar um desenvolvedor que realmente entende a
+plataforma em que está trabalhando. As aplicações são melhores por consequência,
+o trabalho costuma ser feito mais rápido.
+Finalmente, como discutimos no capítulo 3, a barreira entre o negócio e TI deve
+ser derrubada já! Comece a entender como sua empresa funciona.
+Faça algo
+1) Em um pedaço de papel ou em uma lousa, liste as dimensões em que você pode
+ou não estar generalizando seus conhecimentos e habilidades. Para cada dimensão, escreva sua especialidade. Por exemplo, se “sistema operacional” é uma de
+suas dimensões, você pode escrever Windows/.NET ao lado. Agora, à direita da
+sua especialidade, escreva um ou mais tópicos que você deveria aprender. Continuando com o mesmo exemplo, você pode escrever Linux/Java (ou mesmo Ruby
+ou Perl).
+Assim que possível (mas ainda essa semana), pegue 30 minutos de seu tempo e
+comece a aprender alguma tecnologia que você listou. Não basta ler sobre ela. Se
+possível, faça um hands-on. Se é uma tecnologia web, então faça você mesmo a
+31
+Casa do Código
+instalação e configuração do servidor. Se é um assunto relacionado a negócios,
+escolha um de seus clientes no trabalho e chame-os para almoçar ou conversar.
+32
+Capítulo 8
+Seja especialista
+“Como você escreveria um programa, em Java puro, que trave a Java Virtual Machine?” Silêncio mortal. “Oi?”
+“Desculpa. Não entendi. Você pode repetir a pergunta, por favor?” A voz soava
+desesperada. Eu sabia que repetir a pergunta não iria ajudar em nada. Então, eu
+repeti a pergunta, devagar e em um tom de voz mais alto. “Como você escreveria
+um programa, em Java puro, que faça Java Virtual Machine parar de funcionar?”
+“Uh... desculpe. Eu nunca fiz isso.”
+“Eu sei que não. Que tal essa pergunta: como é que você escreveria um programa
+que NÃO trave a JVM"?
+Eu estava procurando por programadores Java realmente bons. Para começar
+a entrevista, perguntei para esta pessoa (e todos os outros candidatos que eu havia
+entrevistado naquela semana) para avaliar a si mesmo em uma escala de um a dez.
+Ele disse nove. Estou esperando uma estrela aqui. Se esse cara se avalia de forma tão
+alta, por que ele não consegue pensar em algum simples truque que trave a JVM?
+A falta de profundidade técnica.
+Casa do Código
+Muitos acreditam que ser especialista em algo significa que você não sabe outras
+coisas.
+–
+Essa pessoa se dizia especialista em Java. Se você o conhecesse em uma festa
+e perguntasse o que ele fazia para viver, ele diria: “Eu sou um desenvolvedor Java”.
+Ainda assim, ele não conseguia responder a esta simples pergunta. Ele não conseguia
+sequer chegar a uma resposta errada. Depois de intensas duas semanas e meia de
+entrevistas em uma viagem de recrutamento, esta foi a regra, não a exceção. Milhares
+de especialistas Java tinham se candidatado para as vagas abertas, mas quase nenhum
+deles sabia explicar como Classloader Java trabalhava ou então dar uma visão geral
+de como o gerenciamento de memória funciona em uma JVM.
+Claro, você não tem que saber essas coisas para escrever código sob a supervisão
+de outros. Mas estas pessoas deveriam ser especialistas.
+Muitos acreditam que ser especialista em algo significa que você não sabe outras
+coisas. Eu poderia, por exemplo, chamar minha mãe de especialista em Windows,
+porque ela nunca usou o Linux ou Mac OS X. Ou, eu poderia dizer que meus parentes na zona rural do Arkansas são especialistas em música country, porque nunca
+ouviram nada diferente.
+Imagine que você visite o seu médico da família, reclamando de um nódulo estranho no seu braço direito. O seu médico indica um especialista para fazer uma
+biópsia. E se esse especialista fosse uma pessoa cujas únicas credenciais como especialista eram que ele não compareceu às aulas na escola de medicina ou nunca teve
+experiência em residências que não eram diretamente ligadas ao procedimento específico que ele vai realizar hoje em você? Eu não quero dizer que eles foram mais
+fundo nos temas relacionados ao procedimento de hoje. E se ele tivesse apenas visto
+por cima essas assuntos e não soubesse de mais nada? “E se essa máquina ali começar
+a apitar durante o procedimento?”, você pode perguntar. “Ah, isso nunca aconteceu
+antes. Não vai acontecer desta vez. Eu não sei o que a máquina faz, mas ela nunca
+apita.”
+Felizmente, a maioria dos desenvolvedores de software não é responsável por situações de vida ou morte. Se eles fracassarem, isso geralmente vai resultar em atrasos
+nos projetos ou bugs que simplesmente custarão dinheiro de seus empregadores, não
+vidas.
+Infelizmente, a indústria de software tem movimentado um monte desses especialistas rasos, que usam o termo especialista como uma desculpa para saber só uma
+34
+Casa do Código Capítulo 8. Seja especialista
+coisa. Na indústria médica, um especialista é alguém com profundo conhecimento
+de alguma área específica. Doutores encaminham os pacientes para especialistas,
+porque, em certas circunstâncias, o especialista pode cuidar melhor do paciente do
+que um clínico geral.
+Então, o que um especialista de software deve ser? Eu posso lhe dizer o que eu
+estava procurando por toda a parte durante a viagem de recrutamento. Era por pessoas que entendessem profundamente programação Java e ambiente de implantação.
+Eu queria pessoas que pudessem dizer “estive lá, fiz isso” em 80% das situações e cuja
+profundidade de conhecimento passasse tranquilidade para as outras 20% das situações. Eu queria alguém que, ao lidar com abstrações de alto nível, entendesse os detalhes da implementação dessas abstrações. Eu queria alguém que pudesse resolver
+qualquer problema de implantação que encontrássemos ou que ao menos soubesse
+a quem pedir ajuda se necessário.
+Este é o tipo de especialista que vai sobreviver na indústria de TI. Se você é um
+especialista em .NET, isso não é uma desculpa para não saber nada, além de .NET.
+Isso significa que, se tem a ver com .NET, você é o cara. Servidores IIS travados e
+precisando de reboot? “Não tem problema.” Integração de código fonte com o Visual
+Studio .NET? “Eu lhe mostro como.” Clientes à beira de um ataque de nervos por
+conta de problemas de performance que ninguém sabe o que é? “Dê 30 minutos.”
+Se isso não é o que ser um especialista significa para você, então eu espero que
+não saia falando que é um.
+Faça algo
+• Você usa uma linguagem de programação que compila e roda numa máquina
+virtual? Se assim for, levará algum tempo para aprender sobre os detalhes
+de como a VM trabalha. Considerando Java, .NET e Smalltalk, muitos livros
+e sites são dedicados ao tema. É mais fácil aprender sobre elas do que você
+imagina.
+Independente de a sua linguagem se basear em uma VM, leva algum tempo
+para estudar o que acontece quando você compila um arquivo fonte. Como é
+que o código que você digitou passa de texto legível para as instruções que um
+computador pode executar? O que significaria escrever o seu próprio compilador?
+Quando você importa ou usa bibliotecas externas, de onde elas vêm? O que
+realmente significa importar uma biblioteca externa? Como é que o seu com35
+Casa do Código
+pilador, sistema operacional, ou máquina virtual liga vários pedaços de código
+para formar um sistema coerente? Aprender esses pontos fará com que você
+fique muitos passos mais próximos de ser um especialista na sua tecnologia
+preferida.
+• Encontre uma oportunidade — no trabalho ou fora dele — de dar uma aula
+sobre algum aspecto de uma tecnologia em que você gostaria de se aprofundar. Como você verá em “Seja um mentor”, capítulo 14, o ensino é uma das
+melhores maneiras de aprender.
+36
+Capítulo 9
+Não coloque todos os seus ovos
+num só cesto
+Uma vez, enquanto gerenciava um time de desenvolvedores, eu perguntei a um dos
+meus funcionários: “O que você quer fazer com sua carreira? O que você quer ser?”
+Fiquei muito decepcionado com sua resposta: “Quero ser um arquiteto J2EE” Eu
+perguntei: “Por que não um designer Microsoft Word ou um instalador RealPlayer?”
+Ele queria fazer sua carreira em torno de uma tecnologia específica, criada por
+uma empresa específica, da qual ele não era um empregado. E se a empresa acabar?
+E se sua tecnologia se tornar obsoleta? Por que você quer confiar sua carreira a uma
+empresa de tecnologia?
+De alguma maneira, como uma indústria, nós mesmos nos enganamos ao pensar que líder de mercado é a mesma coisa que padrão. Assim, para algumas pessoas,
+parece inteligente fazer com que o produto de uma empresa faça parte da sua identidade. Pior ainda, alguns baseiam suas carreiras em torno de produtos que nem
+líderes de mercado são — pelo menos até suas carreiras falharem miseravelmente e
+Casa do Código
+sua única escolha for repensar sua estratégia perdedora.
+Vamos parar para lembrar que devemos pensar na nossa carreira como um negócio. Embora seja possível construir um negócio que seja um parasita de outro
+negócio (como empresas que constroem softwares de remoção de spyware para suprir falhas de segurança do navegador da Microsoft), como uma pessoa, isso é uma
+coisa extremamente arriscada de se fazer. Uma empresa, como a do exemplo do
+spyware, geralmente pode reagir às mudanças no mercado, como uma melhoria na
+segurança do navegador da Microsoft (ou a Microsoft decidir entrar no mercado de
+remoção de spyware), enquanto que uma pessoa não tem a mão de obra ou dinheiro
+sobrando, para de repente, mudar de direção na carreira.
+Uma visão centrada apenas no fornecedor é uma visão míope.
+–
+O lado triste da visão centrada no fornecedor é que, normalmente, os detalhes de
+implementação do software de um fornecedor são um segredo. Você pode aprender
+bastante sobre o software de alguém, até chegar na barreira do serviço profissional.
+Essa é uma barreira artificial que a empresa impõe entre você e a solução para um
+problema possível, dessa forma, ela pode lucrar vendendo o suporte. Algumas vezes,
+essa barreira é proposital, e às vezes é um efeito colateral da tentativa da empresa de
+proteger sua propriedade intelectual (não compartilhando o código-fonte).
+Assim, apesar de que o investimento em uma única determinada tecnologia seja
+quase sempre uma má ideia, se você precisar fazer isso, considere focar em uma
+opção open source, ao invés de uma comercial. Mesmo que você não possa ou não
+queira usar uma solução open source no seu trabalho, use-a para conseguir ir mais
+a fundo na tecnologia. Por exemplo, você pode querer se tornar um especialista em
+como funcionam os servidores de aplicação J2EE. Em vez de concentrar seus esforços
+sobre os detalhes de como configurar e implantar um servidor de aplicação comercial
+(afinal, qualquer um pode descobrir como ajustar as configurações em um arquivo
+de configuração, certo?), baixe o código fonte do JBoss ou Geronimo e reserve um
+tempo para si mesmo, não só para aprender a operar os servidores, mas para estudar
+suas partes internas.
+Em pouco tempo, você vai perceber que naturalmente o seu ponto de vista vai
+mudar. Esse negócio de J2EE (ou seja lá o que você escolheu estudar) realmente não
+é nada de tão especial. Agora que você vê os detalhes da implementação, pode perceber que há padrões conceituais ali no meio. E começar a perceber que, seja com
+38
+Casa do Código Capítulo 9. Não coloque todos os seus ovos num só cesto
+Java ou outra linguagem ou plataforma, arquitetura distribuída é arquitetura distribuída. Sua visão aumenta e sua mente começa a abrir. Você começa a perceber que
+os conceitos e padrões que o seu cérebro está organizando e assimilando são muito
+mais escaláveis e universais do que qualquer tecnologia de uma empresa específica.
+“Não importa o fornecedor, eu sei como criar um sistema!”
+Faça algo
+1) Tente um projeto pequeno, duas vezes. Tente uma vez em sua tecnologia padrão e,
+depois, da forma mais idiomática possível, faça em uma tecnologia concorrente.
+39
+
+Capítulo 10
+Ame-o ou deixe-o
+Pode soar como uma espécie de historinha clichê feita pra despertar aquela exaltação
+idealista em você, mas é muito importante para deixar de falar. Se você quer ser
+realmente bom no seu trabalho, você tem que ser apaixonado por ele. Se você não
+dá a mínima pra ele, isso vai transparecer.
+Quando minha esposa e eu nos mudamos para Bangalore, eu estava bem animado. Pela primeira vez na minha carreira, estava ansioso para encontrar tecnólogos com paixão por aprender. Estava esperando uma vida pós-trabalho cheia de
+reuniões de grupo de usuários e profundas discussões filosóficas sobre técnicas e metodologias de desenvolvimento de software. Eu estava esperando encontrar o Silicon
+Valley da Índia cheio de artesãos, entusiastas da grande arte de desenvolver software.
+O que eu encontrei foi um monte de gente que estava lá só pra receber seu salário
+e poucos artistas apaixonados.
+Era igual ao lugar de onde vim.
+Claro, na hora eu não percebi que era igual ao lugar de onde vim. Eu tinha algumas referências dos Estados Unidos, mas sempre achei que era porque eu trabalhava
+Casa do Código
+em cidades ruins ou em empresas com ambiente ruim. Sempre achei que minhas
+primeiras experiências na área de TI tinham sido exceções. “Deve ser assim com
+a maioria dos desenvolvedores”, pensava. “Eu só não encontrei o ambiente certo
+ainda.”
+Comecei a trabalhar no departamento de TI da minha universidade através de
+uma recomendação do meu amigo Walter, que tinha me visto trabalhar com computadores, o suficiente para saber que eu provavelmente poderia fazê-los trabalhar
+melhor do que a maioria das pessoas que precisavam de ajuda na universidade. Eu
+não acreditava que eu podia, sem ter nenhum tipo de treinamento. Eu era apenas um
+tocador de saxofone que gostava de jogar videogame. Mas Walter me candidatou em
+uma vaga e marcou uma entrevista para mim. Fui contratado sem nem uma única
+questão técnica ter sido perguntada, e era para começar imediatamente.
+Quando eu apareci no trabalho, estava morrendo de medo de ser descoberto
+como um charlatão, o que eu realmente era. “O que é que este saxofonista está fazendo aqui com a gente, profissionais treinados?” Afinal, eu estava trabalhando com
+gente que tinha níveis avançados em ciência da computação. E aqui estava, tendo
+cursado só uma parte da faculdade de Música, tentando me encaixar como se eu
+soubesse alguma coisa.
+Depois de alguns dias de trabalho, a verdade começou a afundar. “Essas pessoas não fazem ideia do que estão fazendo!” Na verdade, algumas pessoas estavam
+me observando trabalhar e tomando notas! Pessoas com mestrado em ciência da
+computação!
+Minha primeira reação foi assumir que eu estava cercado por idiotas. Afinal, eu
+não tinha nenhum treinamento formal. Passei minhas noites tocando em bandas
+de bar e meus dias jogando videogame. Eu tinha aprendido a trabalhar com computadores só porque eu estava interessado neles. Na verdade, eu aprendi a escrever
+programas porque eu queria fazer meus próprios jogos de computador. Eu chegava
+em casa tarde depois de uma noite ensurdecedora em algum bar e ficava até o sol nascer em sites Gopher com tutoriais sobre programação. Aí eu ia dormir, acordava e
+continuava estudando até que a hora em que eu tinha que sair e tocar novamente. Eu
+parava meus estudos com meus amados jogos, comia e depois voltava para brincar
+com Gopher e qualquer compilador que eu conseguisse fazer funcionar.
+Trabalhe porque você não poderia não trabalhar.
+–
+Pensando bem, eu era viciado, mas de um jeito bom. Meu desejo por criar tinha
+42
+Casa do Código Capítulo 10. Ame-o ou deixe-o
+sido despertado em grande parte da mesma forma que quando comecei a escrever
+música clássica ou tocar jazz. Eu era obcecado por aprender tudo o que eu pudesse.
+Eu não estava ali para uma nova carreira. Na verdade, muitos dos meus amigos
+músicos achavam isso uma irresponsável distração da minha carreira atual. Eu estava
+lá porque eu não poderia não estar.
+Esta foi a diferença entre eu e os meus superestudados, mas de baixo rendimento,
+colegas de trabalho. Paixão.
+Essas pessoas não tinham ideia de por que eles estavam na área de TI. Eles se
+encontraram por acaso em suas carreiras, porque acharam que programar podia pagar bem, porque os seus pais os incentivaram ou porque não conseguiam pensar em
+um curso melhor na faculdade. Infelizmente o seu desempenho no trabalho refletia
+isso.
+Se você pensar nas biografias que você leu ou nos documentários a que assistiu
+sobre os grandes nomes em vários campos, esse mesmo padrão de vício e comportamento apaixonado aparece. Diz-se que o grande saxofonista de jazz, John Coltrane,
+praticava tanto que seus lábios chegavam a sangrar.
+É claro, o talento natural tem um grande papel na habilidade. Nem todos podem
+ser Mozart ou Coltrane. Mas todos nós podemos dar um grande passo longe da
+mediocridade encontrando um trabalho pelo qual somos apaixonados.
+Pode ser um domínio ou negócio que lhe interesse. Ou, por outro lado, pode
+ser uma tecnologia específica ou domínio de negócio que o afunde. Ou um tipo de
+empresa. Talvez você esteja destinado a pequenas equipes ou a times grandes. Ou a
+processos rígidos. Ou a processos ágeis. Qualquer que seja a combinação, leva algum
+tempo para encontrar a sua.
+Você pode fingir por um tempo, mas a falta de paixão vai pegar você e seu trabalho.
+Sendo um oportunista em série
+por James Duncan Davidson
+Desde o início, eu não tive o que muitos consideram uma carreira tradicional.
+Pelo contrário, tem sido muito mais um caminho de seguir as oportunidades conforme elas aparecem. A primeira apareceu enquanto eu estava na escola trabalhando
+em uma licenciatura em arquitetura. Eu tinha decidido na idade de 15 ou 16 anos que
+eu queria ser um arquiteto, e passei muito tempo investindo no futuro. Mas as sementes do que realmente seria a minha carreira depois da escola foram plantadas
+em meu fascínio precoce com sistemas online BBS. Eu era um daqueles garotos que
+43
+Casa do Código
+amavam o modem de 300 no PC da família. Isso me levou, eventualmente, para a
+internet, que por sua vez me levou a Gopher e, então, World Wide Web.
+A web imediatamente me fisgou. Eu construí vários sites pessoais em rápida
+sequência e aproveitei toda a tecnologia à minha disposição, ensinando a mim
+mesmo conforme necessário. Na época, eu pensei neste trabalho como experimentos em cyber-architetura. Parece muito grandioso e até mesmo bastante idiota agora,
+mas era o mundo em que nós dos primeiros tempos da web vivíamos. Estávamos
+tentando imaginar o que o futuro poderia trazer.
+Naturalmente, o verdadeiro trabalho de construir o futuro da internet não estava
+acontecendo nos laboratórios de arquitetura. Ele estava acontecendo no mundo dos
+negócios. Em pouco tempo, e com base no que eu tinha feito com o meu site público, fui contatado por uma startup que estava construindo websites para os Hilton, Better Business Bureau e semelhantes. Eles tinham visto os sites eu havia construído, e, aparentemente, eu tinha o conjunto de habilidades de que eles precisavam.
+Ofereceram-me um trabalho com o que parecia, na época, um salário ridiculamente
+grande. Aceitei-o, imaginando que eu poderia aproveitar a onda por um tempo, ganhar algum dinheiro, e voltar para a escola em poucos anos.
+Foi em 1995. Mal sabia eu quão longe as coisas iriam e aonde um pouco de vontade de mergulhar em algo novo iria me levar.
+Enquanto eu ajudava a construir a primeira versão do website Hilton, que tinha
+posicionamento de reservas em tempo real, aprendi como construir sites usando
+uma variedades de tecnologias do lado do servidor. Em poucos meses, eu passei de
+aprendiz a criador de meus próprios frameworks. Olhando para trás, parece ridículo,
+mas naquele momento, isso era o que era necessário. Eu vi uma abertura, aceitei-a,
+e apostei nela por tudo que valia, reinventando a mim mesmo conforme necessário.
+Uma coisa levou à outra. Em 1997, fui para a JavaSoft trabalhar aplicações servidoras, e em poucos anos, acabei encarregado da especificação Servlet. Infelizmente,
+era um esforço subfinanciado, e eu não tinha uma equipe para me ajudar a fazer tudo
+que precisava ser feito, incluindo construir uma nova implementação de referência.
+Mas eu não deixei isso me parar, e dei início ao desenvolvimento de uma implementação completamente nova, que eventualmente foi lançada como o Kit JavaServer
+Web Development. Poucos se lembram desse software. Mas a maioria dos que trabalham com Java sabe sobre a versão seguinte daquele código. É o chamado Tomcat.
+E ele foi lançado mundialmente via Fundação Apache com um sócio chamado Ant.
+A história por trás desse lançamento daria um livro. O suficiente é dizer que tudo
+aconteceu graças a um perfeito conjunto de oportunidades nas quais estive disposto
+44
+Casa do Código Capítulo 10. Ame-o ou deixe-o
+a apostar.
+Depois de trabalhar na Sun por quatro anos e encarar uma questão do tipo “O
+que eu devo fazer agora?”, decidi me tornar independente. Escrevi livros para a
+O’Reilly, desenvolvi software para Mac, desenvolvi alguns softwares próprios que
+acabei não lançando. E terminei fazendo um pouco de desenvolvimento Ruby on
+Rails. Ser um desenvolvedor de software independente foi bom para mim e sou bastante bom nisso. Mas ao longo do caminho, um hobby que eu estava perseguindo
+começou a se transformar em uma própria carreira.
+Além de ser um estudante de arquitetura que se tornou tecnólogo, eu era também um fotógrafo havia um bom tempo. Minha avó tinha me ensinado o básico.
+Meus pais me encorajaram. Como resultado, até onde posso me lembrar, eu tinha
+uma câmera por perto. Isso tem sido uma grande parte da minha vida. Aliás, o software não lançado que eu escrevi para mim mesmo depois de deixar a Sun era para
+o trabalho com fotografia.
+Em 2005, dez anos depois que eu fiz uma pausa e mudei de estudante de arquitetura para desenvolvedor de software, fui chamado por meus amigos do grupo de
+conferências O’Reilly. Eles precisavam de alguém para documentar seus eventos e
+perguntaram se eu não estaria interessado em ir tirar algumas fotos. Eu aceitei, mas
+em vez de somente tirar algumas fotos, fui além da minha causa. Fiquei maluco e
+trabalhei em todas as sessões importantes, e postei imagens no Flickr para fornecer um retorno extremamente rápido. Fui convidado de novo e, nos últimos quatro
+anos, construí um negócio em torno disso com uma boa gama de clientes.
+Enquanto escrevo isso, eu ainda faço código de tempos em tempos, e até desenvolvo um pouco para alguns clientes. Mas, na maior parte, eu sou um fotógrafo
+full-time nos dias de hoje. Contudo, isso pode mudar. Nunca se sabe. É difícil dizer
+o que o futuro trará.
+O que eu sei é que sou um oportunista. Quando vejo algo interessante e excitante
+para mim, eu mergulho dentro disso e faço o que for preciso para obter sucesso. Geralmente, isso significa aprender habilidades e desenvolver novas capacidades. Alguns podem achar que construir novas habilidades é um entrave, mas por alguma
+razão, eu adoro aprender como fazer coisas novas. Afinal, novas habilidades permitem que você faça coisas novas. E eu nunca me defini por minhas habilidades.
+Ao contrário, sempre me defini pelo que fiz e pelo que eu quero fazer em seguida.
+Habilidades são apenas um caminho para chegar lá.
+James Duncan Davidson é um programador e fotógrafo.
+45
+Casa do Código
+Faça algo
+1) Vá encontrar um emprego pelo qual você seja apaixonado.
+2) Começando na próxima segunda-feira, mantenha um registro simples nas próximas duas semanas. A cada dia de trabalho, avalie seu nível de empolgação de 1
+a 10. 1 significa que você preferia estar doente do que ir ao trabalho e 10 significa
+que você não consegue ficar na cama, pois está consumido pela ideia de finalizar
+a sua próxima tarefa.
+Depois de duas semanas de registro, analise os resultados. Houve picos? Houve
+tendências? Foi tudo baixo ou tudo alto? Qual seria a sua nota média se isso fosse
+um teste de escola?
+Para as próximas duas semanas, toda manhã planeje como você fará amanhã ser
+um 10. Planeje o que você vai fazer hoje para fazer com que amanhã seja um desses dias de trabalho que você mal pode esperar para começar. Cada dia, registre
+o nível de empolgação do dia anterior. Se depois de duas semanas as coisas não
+estiverem boas, talvez seja hora de pensar em uma mudança.
+46
+Capítulo 11
+Aprenda a pescar
+Lao Tzu disse: “Dê a um homem um peixe, e alimente-o por um dia. Ensine um
+homem a pescar, e alimente-o por toda a vida”. Isso é tudo muito certo. Mas Lao Tzu
+não menciona a situação em que o homem não quer aprender a pescar e lhe pede
+outro peixe no dia seguinte. Educação exige tanto um professor como um estudante.
+Muitos de nós somos muitas vezes relutantes em ser um estudante.
+Não espere que lhe digam. Pergunte!
+–
+Mas o que é um peixe na indústria de software? É o processo de utilização de
+uma ferramenta ou alguma parte de uma tecnologia ou uma informação específica
+do domínio de negócio no qual você está trabalhando. É como baixar uma branch específica do sistema no controle de versão, ou colocar no ar um servidor de aplicações
+para o desenvolvimento. Muitos de nós interpretam isso como definitivo. “Alguém
+pode cuidar disso para mim”, você pode pensar. O cara do build conhece o sistema
+de controle de versão. Você só precisa pedir a ele para definir as coisas quando você
+Casa do Código
+precisar. A equipe de infraestrutura sabe como os firewalls entre você e seus clientes
+são configurados, por isso, se você tem uma necessidade, basta enviar um e-mail e a
+equipe vai cuidar disso.
+Quem quer ficar à mercê de outra pessoa? Ou pior: se você estivesse contratando
+alguém para fazer um trabalho para você, você ia gostar que ele estivesse à mercê dos
+especialistas? Eu não. Eu ia querer contratar alguém autossuficiente.
+O jeito mais óbvio para começar é aprender as ferramentas do seu mercado. Controle de versão, por exemplo, é uma ferramenta poderosa. Uma parte importante da
+sua função é focada em tornar os desenvolvedores mais produtivos. Não é apenas
+o lugar onde você coloca o seu código quando você o julga pronto, e você não deve
+tratá-lo como tal. É uma parte integrante do seu processo de desenvolvimento. Não
+deixe que uma coisa tão importante seja como um voodoo para você. Um desenvolvedor autossuficiente pode facilmente ver as diferenças entre a versão de um projeto
+que ele pegou e a última versão estável no repositório. Ou talvez você precise baixar
+a versão do último release e fazer uma correção de um bug. Se aparece um bug crítico no meio da noite, você não vai querer chamar alguém para pedir que lhe dêem a
+versão correta do código para você resolver os problemas. Isso vale para IDEs, sistemas operacionais e praticamente todas as partes de infraestrutura do seu código ou
+processo.
+Igualmente importante é a plataforma tecnológica que você está usando. Por
+exemplo, você pode estar desenvolvendo aplicações usando J2EE. Você sabe que deve
+criar várias classes, interfaces e scripts de deploy. Mas você sabe por quê? Você
+sabe como essas coisas são usadas? Quando você inicia um container J2EE, o que
+realmente acontece? Você pode não ser um desenvolvedor de servidor de aplicação,
+mas saber como eles funcionam possibilita que você desenvolva código confiável
+naquela plataforma e resolva os problemas quando algo der errado.
+Uma maneira particular e fácil de ser folgado é usar vários wizards que geram
+código para você. Isso é particularmente predominante no mundo de desenvolvimento Windows, em que, as ferramentas de desenvolvimento tornam várias tarefas
+realmente fáceis. O lado negativo é que muitos desenvolvedores Windows não têm
+ideia de como seus códigos realmente funcionam. O trabalho dos wizards continua
+sendo um mistério mágico. Não me leve a mal – geradores de código, quando usados corretamente, podem ser uma ferramenta muito útil. Por exemplo, são eles que
+traduzem C# de alto nível para bytecodes que podem rodar em .NET. Você obviamente não gostaria de ter que escrever todos esses bytecodes você mesmo. Mas,
+especialmente em níveis mais altos, deixar os wizards fazerem seu trabalho torna o
+48
+Casa do Código Capítulo 11. Aprenda a pescar
+seu conhecimento raso e o deixa limitado ao que as ferramentas podem fazer por
+você.
+Nós podemos facilmente ignorar o “peixe” em nosso domínio de negócio. Se
+está trabalhando para uma empresa de hipotecas, você pode pedir para um especialista o cálculo da taxa de juros para cada cenário que você precisar nos testes, ou
+poderia você mesmo aprender como calcular. Embora interações com seus clientes
+sejam boas, e é bom clarear os requerimentos do negócio com eles (o contrário de
+entender pela metade e preencher os detalhes você mesmo), imagine quão rápido
+você poderia avançar se realmente soubesse os detalhes do domínio em que está trabalhando. Você provavelmente não vai saber cada regra de negócio – e nem é sua
+função. Mas você pode, pelo menos, aprender o básico. Muitas das melhores pessoas
+que trabalham com software, com quem trabalhei durante anos, tornaram-se mais
+especialistas em seus domínios do que até alguns de seus clientes. Isso resulta em
+produtos melhores. Alguém que é ignorante em domínio vai deixar passarem erros
+bobos – erros que um conhecimento básico poderia evitar. Além disso, ele trabalharia mais lentamente (e custaria mais à empresa) do que o desenvolvedor que entende
+do negócio.
+Para nós, desenvolvedores de software, a intenção de Lao Tzu pode ser igualmente interpretada como “Peça um peixe; coma por um dia. Peça a alguém para
+ensinar-lhe a pescar; coma para a vida toda”. Melhor ainda, não peça para ser ensinado – vá aprender você mesmo.
+Faça algo
+1) Como e por quê? – tanto enquanto você está sentado lendo este livro, ou na
+próxima vez em que estiver no trabalho, pense sobre as partes do seu trabalho
+que você entende por completo. Você pode se fazer duas perguntas extremamente
+úteis sobre qualquer assunto para mergulhar fundo nele: como isso funciona? E
+por que isso tem que acontecer?
+Você pode não conseguir responder as perguntas, mas o simples ato de fazê-las
+vai levar sua mente a um novo quadro e pode gerar um nível mais alto de consciência sobre seu ambiente de trabalho. Como o servidor IIS acaba passando
+requests para minhas páginas ASP.NET? Como eu devo gerar essas interfaces e
+scripts de deploy para minhas aplicações EJB? Como meu compilador lida com
+linkagem dinâmica ou estática? Como calculamos a taxa de modo diferente se
+um comprador mora em outro estado?
+49
+Casa do Código
+Claro, a resposta para qualquer dessas perguntas levará a uma outra potencial
+oportunidade de se fazer a pergunta mais uma vez. Quando você não puder mais
+avançar na árvore do como e do porquê, você provavelmente terá ido longe o
+suficiente.
+2) Dica – escolha uma das mais críticas, porém negligenciadas, ferramentas da sua
+caixa de ferramentas e foque nela. Talvez seja seu sistema de controle de versão, talvez uma biblioteca que você use bastante mas procurou apenas superficialmente, ou talvez o editor que você usa pra programar.
+Quando você escolher a ferramenta, reserve um pequeno período de tempo todos
+os dias para aprender uma coisa nova sobre ela que vai lhe tornar mais produtivo
+ou lhe dar mais controle sobre seu ambiente de desenvolvimento. Você pode, por
+exemplo, escolher dominar o GNU Bourne Again Shell, também conhecido como
+bash. Durante um desses momentos em que sua mente começa a fugir do que
+deve ser feito, em vez de ir para o Slashdot ou Facebook, você poderia procurar na
+internet por dicas de bash. Em um minuto ou dois, você deve encontrar algo útil
+que você não sabia sobre como usar o shell. Claro, agora que tem um novo truque,
+você pode mergulhar em suas entranhas com uma série de como e porquês.
+50
+Capítulo 12
+Aprenda como os negócios
+realmente funcionam
+No capítulo anterior, nós discutimos a importância de fazer uma escolha intencional sobre o domínio de negócio no qual você trabalha. Conhecimento de domínio,
+sendo na melhor das hipóteses um diferencial para empregos e na pior das hipóteses um estraga-prazeres, não é algo que você deva subestimar. Antes de fazer um
+investimento para aprender os prós e contras de um domínio de negócios, você deveria se certificar de que está investindo na coisa certa para você e para a situação do
+mercado.
+Mas há uma parte do conhecimento que não é nem técnica nem de domínio específico e não será ultrapassada em breve: o básico de finanças. Independentemente
+da sua linha de negócio, se é de manufaturas, assistência médica, sem fins lucrativos,
+ou uma instituição educacional, ainda se trata de negócios. E isso é por si só uma
+área de conhecimento que alguém pode – e até deve – aprender.
+Eu me lembro de quando eu era um jovem programador indo para reuniões
+Casa do Código
+da equipe, meus olhos vidrados enquanto algum líder, com quem eu nunca tinha
+trabalhado diretamente, mostrava um monte de números que eu acreditava serem
+completamente irrelevantes para mim. Eu só quero voltar e terminar a funcionalidade
+que estou trabalhando, eu choramingava para mim mesmo. Meus colegas sentavamse juntos, parecendo uma fila de crianças contorcidas numa longa viagem de carro.
+Nenhum de nós entendia o que estava sendo apresentado, e nenhum de nós se importava. Nós culpávamos os gerentes incompetentes que haviam convocado a reunião,
+pelo que sentíamos que era uma completa perda de tempo.
+Você não pode criativamente ajudar em um negócio antes de saber como ele funciona.
+–
+Olhando para trás, eu percebo como nós éramos bobos. Trabalhávamos para
+uma empresa, e nossa função era contribuir para ou fazer, ou economizar dinheiro
+para aquela empresa. Ainda assim não entendíamos o básico de como um negócio se torna lucrativo. Pior ainda, nós não pensávamos que era nosso dever saber.
+Nós éramos programadores e administradores de sistema. Pensávamos que nossos
+trabalhos eram estritamente sobre aqueles tópicos aos quais nos devotávamos. Contudo, como nós supostamente poderíamos contribuir criativamente para que aquele
+negócio fosse rentável, se nem mesmo entendíamos como isso funcionava?
+O uso da palavra criativamente no parágrafo anterior é a chave. É plausível ter
+a visão de que somos, de fato, especialistas em TI e que é para isso que somos pagos. Dados os projetos e liderança corretos, nós deveríamos nos esforçar em tarefas
+que contribuíssem para a empresa. Não precisamos entender totalmente como uma
+empresa opera para dar-lhe valor.
+Mas para criativamente adicionar valor, é preciso uma compreensão mais completa do ambiente de negócios em que você trabalha. No mundo dos negócios, ouvimos a frase ponto de partida o tempo todo. Quantos de nós realmente entendem
+o que é o ponto de partida e o que contribui para ele? Mais importante, quantos de
+nós realmente entendem como nós contribuímos para o ponto de partida? A organização é um centro de custo ou de lucros (você adiciona ou retira do ponto de
+partida)?
+Conhecer a conduta financeira – e linguagem – da sua empresa vai lhe proporcionar a habilidade de fazer mudanças significativas, em vez de tentar acertar no
+escuro em coisas que lhe parecem intuitivamente certas.
+52
+Casa do Código Capítulo 12. Aprenda como os negócios realmente funcionam
+Faça algo
+1) Procure um livro básico sobre negócios, e trabalhe com ele. Uma dica para encontrar um bom livro com uma visão geral é procurar por livros sobre MBA. Um
+desses livros que eu acho particularmente útil (e agradavelmente curto) é o The
+Ten-Day MBA [9]. Você realmente pode concluí-lo em dez dias. Ele não custa
+caro.
+2) Peça a alguém para orientá-lo na área de finanças da sua empresa e expicar como
+funcionam as coisas (se isso for uma informação que sua empresa não se importe
+em compartilhar com seus funcionários).
+3) Explique para eles de volta.
+53
+
+Capítulo 13
+Encontre um mentor
+Uma coisa que a cultura musical do jazz realmente acertou foi a prática de mentoria.
+No mundo do jazz, é comum os jovens músicos procurarem os mais experientes, que
+os carregarão sob sua asas e passarão seus conhecimentos de jazz. Mas isso não para
+por aí. Esses músicos mais velhos geralmente servem como um conselheiro de carreira, e da vida toda. Em troca, os músicos jovens são devotamente fiéis, construindo
+uma rede de apoio de apreciadores fanáticos em torno de seus mentores.
+Contatos são feitos e músicos são contratados todos os dias por meio desses relacionamentos. A sociedade do jazz criou uma cultura auto-organizada e um conjunto
+de costumes em torno do relacionamento com o mentor. É um sistema que funciona
+tão bem que você suspeitaria que ele é guiado por algum tipo de entidade organizadora.
+É OK depender de alguém. Só tenha certeza de que é a pessoa certa.
+–
+No mundo profissional tradicional (e especificamente na área de TI), nós estamos menos propensos a pedir ajuda uns aos outros. Depender dos outros é fre-
+Casa do Código
+quentemente visto como um sinal de fraqueza. Temos medo de admitir que não
+somos perfeitos. Tudo é competição. Apenas os fortes sobrevivem, e isso é tudo. Infelizmente, isso leva a um sistema de mentoria extremamente subdesenvolvido. Se
+tivéssemos que perguntar a um grupo de músicos de jazz: “Quem é seu mentor?”, a
+maioria deles teria uma resposta. Agora faça a mesma questão para programadores.
+Nos Estados Unidos, eles provavelmente responderiam “O quê?”.
+Nem sempre foi assim por aqui. A história do oeste inclui um próspero sistema
+de mentoria profissional, que vem desde a Idade Média. A abordagem do artesatado
+ao treinamento profissional era ainda mais forte e mais formalizado que o sistema
+que evoluiu na cena musical. Pessoas jovens começavam suas carreiras profissionais
+como aprendizes de respeitáveis mestres artesãos. Elas trabalhavam em troca de um
+salário nominal e pelo privilégio de aprender com o mestre, cuja obrigação era treinar os discípulos para criarem coisas seguindo a mesma tradição (e qualidade) que
+a sua própria.
+O primeiro e mais importante propósito de um mentor é ser um modelo a seguir.
+É difícil saber o que é possível ser feito até que você veja alguém que possa ir além dos
+limites que você conhece. Um modelo estabelece o padrão do que “bom” significa.
+Se você se imaginasse como um jogador de xadrez, por exemplo, só o fato de poder
+vencer as pessoas de sua família imediata pode ser muito bom. Contudo, se você
+jogasse contra um competidor de campeonatos, você descobriria que o xadrez é um
+jogo muito mais denso do que você jamais pensava. Se você fosse jogar contra um
+grande mestre, você teria outra revelação. Se você continuasse jogando e derrotando
+apenas os membros de sua família, você poderia ficar com a ideia de que você é
+realmente bom no xadrez. Sem um modelo a seguir, não há incentivo para melhorar.
+Um mentor também pode dar estrutura para seu processo de aprendizagem.
+Como você viu no capítulo anterior, você tem uma enorme quantidade de escolhas
+para fazer sobre as tecnologias e domínios em que vai investir. Às vezes, muitas possibilidades podem o travar. Com certeza, é melhor estar se movendo em uma direção
+do que ficar sentado parado. Um mentor pode ajudar a escolher no que focar suas
+energias.
+Quando eu comecei minha carreira, trabalhando com suporte, eu conheci um
+santo chamado Ken, que era um dos administradores da rede da nossa universidade.
+Ele veio me salvar de um grande problema com a rede NetWare do nosso campus,
+que estava atrapalhando os alunos que tentavam usar o laboratório de informática.
+Quando o incitei a me dar direções sobre como me tornar mais bem informado e
+autossuficiente, ele me deu uma simples dica: mergulhe nos serviços de diretório,
+56
+Casa do Código Capítulo 13. Encontre um mentor
+aprenda uma distribuição UNIX, e domine uma linguagem de script.
+Ele escolheu três habilidades para eu aprender, dentre as infinitas disponíveis. E,
+com a confiança que essa pessoa, quem eu considerava ser um mestre, as prescreveu,
+eu me dispus a aprender essas três habilidades. Minha carreira desde então tem sido
+construída sobre o alicerce desses conhecimentos, todos os três, os quais ainda são
+completamente relevantes para tudo. Eu faço isso. Não é que o caminho que Ken
+me deu foi a resposta absolutamente certa – não há respostas absolutamente certas.
+O importante é que ele estreitou a longa lista de habilidades que eu poderia estar
+aprendendo, transformando-a em uma curta lista de habilidades que eu, de fato,
+aprendi.
+O mentor também serve como alguém de confiança que pode observar e julgar
+suas decisões e seu progresso. Se você é um programador, você pode mostrar seus
+códigos e obter indicadores. Se você está planejando fazer uma apresentação no
+escritório ou em alguma reunião de um grupo de usuários locais, você pode mostrála de antemão para seu mentor para receber feedback. Um mentor é alguém em que
+você pode confiar o suficiente para perguntar “O que deveria ser diferente em mim
+enquanto profissional?”, porque você sabe que ele não vai apenas criticá-lo, mas sim
+ajudá-lo a melhorar.
+Finalmente, assim como no jazz, você não apenas cria uma ligação pessoal e de
+responsabilidades para com seu mentor, mas o inverso também acontece. Se meu
+papel, em um relacionamento, é ajudar alguém, eu invisto no sucesso dessa pessoa.
+Estou ajudando alguém ao longo de sua carreira, por um caminho que eu acredito
+ser o correto. Portanto, se o caminho leva ao sucesso, o sucesso é meu também.
+Isso cria incentivos por parte do mentor para que seus orientandos tenham sucesso. Tipicamente, sendo mais experiente e já bem sucedida, uma pessoa em tal
+papel teria o respeito de uma significativa rede de pessoas. O mentor se torna um
+elo que reforça a conexão entre você e sua rede. A importância desse tipo de conexão não pode ser subestimada. Afinal, a frase “Não é o que você sabe. É quem você
+conhece” não é um clichê sem motivo.
+O grau de formalidade num relacionamento de mentor não é importante. Ninguém precisa explicitamente pedir a alguém para ser seu mentor (embora não seja
+definitivamente uma coisa ruim se você o fizer). Na verdade, seu mentor pode nem
+saber que está fazendo esse papel para você. O que importa é que você tenha alguém
+de confiança e que admire, que possa proporcionar uma orientação à sua carreira e
+ajudar a afiar seu ofício.
+57
+Casa do Código
+Faça algo
+1) Tutorie a si mesmo – todos nós queremos ter alguém para nos orientar, mas a
+realidade é que nem sempre vamos poder encontrar alguém a quem possamos
+dar esse papel. Eis um jeito de fazer uma automentoria.
+Pense na pessoa de sua área que você mais admira. Muitos de nós já possuem
+uma pequena lista pronta, pegando de algum momento de nossas carreiras. Pode
+ser alguém com quem tenha trabalhado, ou pode ser alguém cujo trabalho é admirado. Liste os dez atributos mais importantes desse
